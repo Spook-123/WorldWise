@@ -19,4 +19,4 @@
 1. In the project directory, you can run:
 2. npm install 
 3. npm start
-4. Runs the app in the development mode.
+4. Runs the app in the development mode
